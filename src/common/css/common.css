@@ -1,0 +1,23 @@
+body {
+  /*background-color: #f9e8da;*/
+  font-family: "Microsoft YaHei", 微软雅黑, Tahoma, Helvetica, Arial, sans-serif;
+}
+.content {
+  background-image: url("../../assets/wood.jpg");
+  background-size: 100% 100%;
+}
+.container {
+  width: 1024px;
+  margin: 0 auto;
+  padding: 20px 0 86px;
+  min-height: 460px;
+}
+.center {
+  margin: 0 auto;
+}
+.cl {
+  overflow: hidden;
+}
+.clear {
+  clear: both;
+}
